@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1538-art&hide_border=true" width="100%"/>
 
-  
+
 <!--
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
