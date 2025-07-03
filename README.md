@@ -1,9 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi%2C+there!;I'm+Fuxi;Glad+to+meet+you!+%F0%9F%98%8B" alt="Typing SVG" />
 </h1>
+
+
 ### Nice to see you here!
 
-- 👨‍💻 I am a passionate full-stack web developer, c++ software developer and game developer from Chengdu (and used to be involved in ai research). I'm also a sophomore in University of Electronic Science and Technology of China.
+- 👨‍💻 I am a passionate full-stack web developer, c++ software developer and game developer from Chengdu (and used to be involved in ai research). I'm also a junior in University of Electronic Science and Technology of China.
 
 - :heart: I have a passion for problem-solving and new tech. When I'm not in code, you'll find me watching tech-related Bilibili videos or play pc games with my lovely friends.
 
@@ -20,7 +22,8 @@
 
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=1538-art&label=Profile%20views&color=0e75b6&style=flat" alt="1538-art" /> 
-<img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=Github&color=000&labelColor=666&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzbwer" alt=""></div>
+<img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=Github&color=000&labelColor=666&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3D1538-art" alt=""></div>
+
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1538-art" alt="1538-art" /></a> </p>
@@ -53,4 +56,3 @@
   <summary><b>🎃 Github Contributions</b></summary>
   <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1538-art&hide_border=true" width="100%"/>
-
